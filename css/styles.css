@@ -39,10 +39,15 @@ body{
     margin: -1px;
 }
 
+.container-header{
+    display: flex; 
+}
+
 
 /* logo */
 
 .logo{
+    
         width: 145px;
         height: 31px;
         left: 215px;
